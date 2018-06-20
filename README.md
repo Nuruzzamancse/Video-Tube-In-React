@@ -7,5 +7,6 @@
 > npm install
 > npm start
 ```
+Open browser and go to http://localhost:8080/
 
 You can search & watch youtube videos from this system.
