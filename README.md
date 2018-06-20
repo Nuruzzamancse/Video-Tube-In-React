@@ -1,4 +1,4 @@
-There are two methods for getting started with this repo.
+# Download and Installation
 
 
 ```
